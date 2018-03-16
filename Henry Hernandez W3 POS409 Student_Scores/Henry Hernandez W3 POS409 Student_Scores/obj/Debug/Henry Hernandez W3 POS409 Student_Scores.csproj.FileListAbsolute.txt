@@ -1,0 +1,22 @@
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.pdb
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry_Hernandez_W3_POS409_Student_Scores.Form1.resources
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry_Hernandez_W3_POS409_Student_Scores.Properties.Resources.resources
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.csproj.GenerateResource.Cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.pdb
+C:\Users\Henry\Desktop\POS409\W3\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.exe.config
+C:\Users\Henry\Desktop\POS409\W3\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.exe
+C:\Users\Henry\Desktop\POS409\W3\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.exe.config
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\bin\Debug\Henry Hernandez W3 POS409 Student_Scores.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry_Hernandez_W3_POS409_Student_Scores.Form1.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry_Hernandez_W3_POS409_Student_Scores.Properties.Resources.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\Henry Hernandez W3 POS409 Student_Scores\obj\Debug\Henry Hernandez W3 POS409 Student_Scores.pdb
